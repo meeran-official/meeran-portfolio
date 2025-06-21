@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 5%;
+  background-color: #242424;
+  border-bottom: 1px solid #3a3a3a;
+}
+
+.logo a {.hero-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8rem 2rem;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 800px;
+}
+
+.hero-title {
+  font-size: 4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  line-height: 1.1;
+}
+
+.hero-tagline {
+  font-size: 1.25rem;
+  color: #a0a0a0; /* A slightly softer text color */
+  line-height: 1.6;
+}
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.nav-links a {
+  margin-left: 20px;
+  color: #e0e0e0;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-links a:hover {
+  color: #646cff; /* A nice highlight color */
+}

@@ -1,0 +1,49 @@
+.project-card {
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #ffffff;
+  font-size: 1.5rem;
+}
+
+.project-card p {
+  color: #c0c0c0;
+  flex-grow: 1; /* Makes description take up available space */
+}
+
+.tech-stack {
+  margin: 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tech-tag {
+  background-color: #3e3e3e;
+  color: #e0e0e0;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+}
+
+.project-links a {
+  color: #646cff;
+  text-decoration: none;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+
+.project-links a:hover {
+  text-decoration: underline;
+}

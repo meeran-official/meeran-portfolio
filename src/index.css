@@ -1,0 +1,8 @@
+/* src/index.css */
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: #1a1a1a; /* A nice dark background for the whole page */
+  color: rgba(255, 255, 255, 0.87); /* A light default text color */
+}
