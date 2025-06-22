@@ -6,7 +6,7 @@
 
 ---
 
-![Portfolio Screenshot](https://github.com/user-attachments/assets/b0e4523b-1059-4491-9b6f-83f5baa92e6b) 
+![Portfolio Screenshot](https://github.com/user-attachments/assets/56289ff0-cf28-4439-bdb8-b3614ff73b24)
 
 ---
 
