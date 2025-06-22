@@ -1,0 +1,54 @@
+.experience-section {
+  padding: 4rem 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.experience-section h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.experience-wrapper {
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 2rem;
+}
+
+.job-header h3 {
+  margin-top: 0;
+  font-size: 1.75rem;
+  color: #ffffff;
+  margin-bottom: 0.25rem;
+}
+
+.company-duration {
+  display: block;
+  font-size: 1.1rem;
+  color: #a0a0a0;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #444;
+  padding-bottom: 2rem;
+}
+
+.achievement-item {
+  margin-bottom: 2rem;
+}
+
+.achievement-item:last-child {
+  margin-bottom: 0;
+}
+
+.achievement-item h4 {
+  font-size: 1.25rem;
+  color: #646cff; /* Use our accent color for titles */
+  margin-bottom: 0.5rem;
+}
+
+.achievement-item p {
+  margin: 0;
+  line-height: 1.7;
+  color: #c0c0c0;
+}
