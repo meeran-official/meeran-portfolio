@@ -1,0 +1,26 @@
+.scroll-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: #646cff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  opacity: 0;
+  transform: translateY(100px);
+}
+
+/* This applies the fade-in/slide-in animation when the button becomes visible */
+.scroll-to-top .scroll-button {
+  opacity: 1;
+  transform: translateY(0);
+}
