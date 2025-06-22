@@ -6,8 +6,7 @@
 
 ---
 
-![Portfolio Screenshot](https://i.imgur.com/3bafe3.png) 
-*(To replace this, just drag and drop your own screenshot into this README on GitHub)*
+![Portfolio Screenshot](https://github.com/user-attachments/assets/b0e4523b-1059-4491-9b6f-83f5baa92e6b) 
 
 ---
 
