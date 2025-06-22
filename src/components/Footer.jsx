@@ -6,6 +6,11 @@ function Footer() {
   return (
     <footer className="footer">
       <p>&copy; {currentYear} Meeran. All rights reserved.</p>
+      <p className="footer-link">
+        <a href="https://github.com/meeran-official/meeran-portfolio" target="_blank" rel="noopener noreferrer">
+          Built with React & 🖤
+        </a>
+      </p>
     </footer>
   );
 }

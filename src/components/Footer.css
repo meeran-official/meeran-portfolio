@@ -6,3 +6,18 @@
   color: #a0a0a0;
   font-size: 0.9rem;
 }
+
+.footer-link {
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+
+.footer-link a {
+  color: #a0a0a0;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link a:hover {
+  color: #646cff;
+}
