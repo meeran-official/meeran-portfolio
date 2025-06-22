@@ -1,12 +1,67 @@
-# React + Vite
+# Meeran's Personal Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, interactive portfolio website built from scratch with React to showcase my skills, projects, and professional experience as a Software Craftsman.
 
-Currently, two official plugins are available:
+**[Live Demo Link](https://meerann-portfolio.netlify.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+![Portfolio Screenshot](https://i.imgur.com/3bafe3.png) 
+*(To replace this, just drag and drop your own screenshot into this README on GitHub)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 About This Project
+
+This portfolio was built as a personal project to not only showcase my work but also to gain hands-on experience with modern frontend development using **React** and its ecosystem. The goal was to create a clean, professional, and aesthetically pleasing single-page application that tells my professional story in an engaging way.
+
+It moves beyond a static page by integrating live data from the GitHub API and using a modern animation library to create a fluid user experience.
+
+---
+
+## ✨ Key Features
+
+* **Modern & Responsive Design:** A clean, dark-themed UI that looks great on desktop and mobile devices.
+* **Interactive Animations:** Subtle "reveal on scroll" animations for each section, powered by **Framer Motion**.
+* **Live Data:** A dynamic "GitHub Stats" section that fetches my public repository and follower counts directly from the **GitHub REST API**.
+* **Component-Based Architecture:** Built with reusable components for each section (`Header`, `Projects`, `Skills`, etc.), following React best practices.
+* **Smooth Navigation:** A sticky header and a "scroll-to-top" button with JavaScript-driven smooth scrolling for a seamless one-page experience.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Framework/Library:** React
+* **Build Tool:** Vite
+* **Styling:** CSS Modules
+* **Animations:** Framer Motion
+* **Icons:** React Icons
+
+---
+
+## 💻 Getting Started Locally
+
+To run this project on your own machine:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/meeran-official/meeran-react-portfolio.git](https://github.com/meeran-official/meeran-react-portfolio.git)
+    cd meeran-react-portfolio
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+    The site will be running at `http://localhost:5173`.
+
+4.  **To create a production build:**
+    ```bash
+    npm run build
+    ```
+    This will create an optimized version of the site in the `dist` folder, ready for deployment.
