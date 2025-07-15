@@ -25,10 +25,6 @@ const experienceData = {
       story: "Engineered and deployed a novel task-interleaving feature for the core Warehouse Management System (WMS). This system significantly optimizes warehouse efficiency by minimizing 'deadhead' travel time, enabling seamless transitions between different work types for associates. The feature is now successfully live with a major client and is being prepared for deployment with a second client."
     },
     {
-      title: 'Exceptional Performance & Leadership within Team',
-      story: "Achieved the #1 performance rating out of 52 engineers in the team, demonstrating exceptional impact and contribution. This outstanding performance resulted resulting in an exceptional salary increase as a sole recipient that significantly outpaced the company-wide average for top performers."
-    },
-    {
       title: 'Strategic Architectural Contribution (JSON-based Routing Utility)',
       story: 'Designed and implemented a JSON-based utility configuration as a central routing point for an expanding proprietary framework (SLICE). This critical component efficiently routes incoming exposed endpoints to desired internal APIs based on request body content, laying foundational groundwork for replacing the legacy monolithic architecture with a more scalable microservices approach.'
     },
